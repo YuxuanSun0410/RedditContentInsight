@@ -7,7 +7,7 @@ st.set_page_config(page_title="Reddit Content Insight Dashboard", layout="wide")
 st.title("Reddit Content Insight Dashboard")
 st.write("Analyze Reddit post engagement patterns and simple content categories.")
 
-df = pd.read_csv("reddit_data.csv")
+df = pd.read_csv("result/reddit_data.csv")
 
 df["has_text"] = df["selftext"].apply(lambda x: 0 if x == "" else 1)
 
