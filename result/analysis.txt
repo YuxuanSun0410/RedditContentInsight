@@ -1,0 +1,30 @@
+=== Analysis Results ===
+
+Top Title Length vs Score:
+     title_length  score
+49             65    885
+92             80    616
+103            45    426
+4              64    344
+8              82    331
+
+Has Text vs Average Score:
+has_text
+1    38.368
+
+Correlation (comments vs score):
+0.7391151181371375
+
+Category vs Average Score:
+category
+advice      11.000000
+other       37.070423
+personal    46.666667
+question    42.225000
+
+Category Distribution:
+category
+other       71
+question    40
+personal     9
+advice       5
