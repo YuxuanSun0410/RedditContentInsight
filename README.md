@@ -2,6 +2,9 @@
 
 A data analytics project that collects Reddit post data, analyzes engagement patterns, and presents insights through an interactive dashboard.
 
+## 🚀 Live Demo
+https://redditcontentinsight-gahdauijg3mvzim7kjkywz.streamlit.app
+
 ## Overview
 
 This project uses Reddit data from `r/photography` to explore how content features relate to engagement. It includes:
